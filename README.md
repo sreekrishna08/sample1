@@ -1,2 +1,2 @@
 # sample1
-sample project
+sample project to verify git functionality.
